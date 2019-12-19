@@ -1,0 +1,64 @@
+{
+    "name": "Datafield",
+    "description": "Apiary provides the leading API-First platform designed specifically to help companies accelerate and control the design, development, and documentation of APIs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1807-datafield.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datafield\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Datafield",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1807-datafield.jpg",
+            "humanURL": "http:\/\/docs.datafield.apiary.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datafield-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datafield-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/Datafieldblog.wordpress.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/apiary"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/datafield"
+        },
+        {
+            "type": "Email",
+            "url": "support@apiary.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apiaryio"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/datafieldApp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/docs.datafield.apiary.io\/"
+        }
+    ]
+}
